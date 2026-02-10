@@ -4,6 +4,7 @@ import Featured from "./Featured";
 // import FruitList from "./FruitList";
 import Header from "./Header";
 import Hero from "./Hero";
+import Login from "./Login";
 
 
 
@@ -11,10 +12,11 @@ function App() {
  
   return (
     <>
-    <Header/>
+    {/* <Header/>
     <CategoryBar/>
     <Hero/>
-    <Featured/>
+    <Featured/> */}
+    <Login />
    {/* <FruitList/> */}
 
      
