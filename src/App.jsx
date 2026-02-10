@@ -12,10 +12,10 @@ function App() {
  
   return (
     <>
-    {/* <Header/>
+    <Header/>
     <CategoryBar/>
     <Hero/>
-    <Featured/> */}
+    <Featured/>
     <Login />
    {/* <FruitList/> */}
 
